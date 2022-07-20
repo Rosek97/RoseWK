@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ms Kariuki
-- 👀 I’m interested in software engineering ..
-- 🌱 I’m currently learning quality assurance 
+- 👀 I’m interested in cloud architecture ..
+- 🌱 I’m currently learning azure 
 - 📫 Reach me through mail -wamborose@gmail.com.
 
 <!---
